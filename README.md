@@ -1,2 +1,1 @@
-# NoExtractionMOU.github.io
-NoExtractionMOU
+# NoExtractionMOU
